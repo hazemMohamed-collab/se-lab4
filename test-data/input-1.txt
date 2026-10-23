@@ -1,0 +1,4 @@
+# First SINGLE shot must use the primary store
+# Primary never fails; secondary always fails
+GT4500,1,0,1,1
+TORPEDO,SINGLE

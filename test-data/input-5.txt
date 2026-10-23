@@ -1,0 +1,3 @@
+# Primary always fails; secondary could fire successfully
+GT4500,1,1,1,0
+TORPEDO,SINGLE

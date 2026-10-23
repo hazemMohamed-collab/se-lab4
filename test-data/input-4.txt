@@ -1,0 +1,4 @@
+# Primary has two torpedoes; secondary is empty
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
