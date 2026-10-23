@@ -1,0 +1,4 @@
+# Exhaust the primary store, then try again with both stores empty
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

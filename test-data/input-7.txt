@@ -1,0 +1,4 @@
+# Each store has one torpedo and never fails
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,SINGLE
